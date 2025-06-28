@@ -33,7 +33,7 @@ _A Java Swing-based desktop application for recording, viewing, analyzing, impor
 
 <br> 
 <p align="center">
-  <img src="screenshots/1.gif" width="70%">
+  <img src="screenshots/1.gif" width="85%">
 </p>
 <br>
 
