@@ -1,4 +1,4 @@
-# 🌡️📊 JavaSwing TempTracker DB: Temperature Logging & Analysis 🇵🇱
+# 🌡️📊 JavaSwing TempTracker DB: Temperature Logging & Analysis
 _A Java Swing-based desktop application for recording, viewing, analyzing, importing, and exporting temperature measurements, storing data in an SQLite database, with a modern English user interface and professional graphics integration._
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
